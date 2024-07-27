@@ -2,7 +2,7 @@
 
 Items: {
 	tplc: {
-		DisplayName: "tplc"
+		DisplayName: tplc
 		Tooltip:
 			'''
 			Template of an item

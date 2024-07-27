@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NovaQuest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+540f4fdc7129147e9238ccd6587c451834b7a8fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("NovaQuest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NovaQuest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
