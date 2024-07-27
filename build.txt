@@ -1,0 +1,3 @@
+displayName = Nova Quest Book
+author = Nova &amp; Brome
+version = 0.1
