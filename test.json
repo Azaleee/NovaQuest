@@ -1,0 +1,26 @@
+[
+    {
+        "Uid": 1,
+        "Name": "A beginning",
+        "Desc": "Collect 40 wood",
+        "ItemsToGet": {
+            "9": 5
+        }
+    },
+    {
+        "Uid": 2,
+        "Name": "Capitalism",
+        "Desc": "Left the Merchant join your world by having at least 50 silver coin",
+        "ItemsToGet": {
+            "9": 5
+        }
+    },
+    {
+        "Uid": 3,
+        "Name": "Safe and warm",
+        "Desc": "Craft a campfire",
+        "ItemsToGet": {
+            "215": 1
+        }
+    }
+]

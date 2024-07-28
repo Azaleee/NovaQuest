@@ -1,0 +1,6 @@
+/Users/macbookm1pro/Library/Application Support/Terraria/tModLoader/ModSources/NovaQuest/obj/Debug/net6.0/NovaQuest.csproj.AssemblyReference.cache
+/Users/macbookm1pro/Library/Application Support/Terraria/tModLoader/ModSources/NovaQuest/obj/Debug/net6.0/NovaQuest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookm1pro/Library/Application Support/Terraria/tModLoader/ModSources/NovaQuest/obj/Debug/net6.0/NovaQuest.AssemblyInfoInputs.cache
+/Users/macbookm1pro/Library/Application Support/Terraria/tModLoader/ModSources/NovaQuest/obj/Debug/net6.0/NovaQuest.AssemblyInfo.cs
+/Users/macbookm1pro/Library/Application Support/Terraria/tModLoader/ModSources/NovaQuest/obj/Debug/net6.0/NovaQuest.csproj.CoreCompileInputs.cache
+/Users/macbookm1pro/Library/Application Support/Terraria/tModLoader/ModSources/NovaQuest/obj/Debug/net6.0/NovaQuest.sourcelink.json

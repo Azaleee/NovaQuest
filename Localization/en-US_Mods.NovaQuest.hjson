@@ -11,3 +11,8 @@ Items: {
 			'''
 	}
 }
+
+Keybinds: {
+	"Toogle UI.DisplayName": Toogle  U I
+	"Toggle UI.DisplayName": Toggle  U I
+}

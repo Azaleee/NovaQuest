@@ -2,21 +2,20 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="Content/Items/tplc.cs">
     <Files>
-      <File FileName="NovaQuest.cs" Line="7" Column="1" />
-      <File FileName="Content/Items/tplc.cs" Line="29" Column="28" />
+      <File FileName="NovaQuest.cs" />
+      <File FileName="Content/Items/tplc.cs" Line="9" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="NovaQuest" expanded="True">
-            <Node name="NovaQuest" expanded="True">
+          <Node name="NovaQuest">
+            <Node name="NovaQuest">
+              <Node name="Dependencies" selected="True" />
               <Node name="Content" expanded="True">
-                <Node name="Items" expanded="True">
-                  <Node name="tplc.cs" selected="True" />
-                </Node>
+                <Node name="Items" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -24,6 +23,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
 </Properties>
