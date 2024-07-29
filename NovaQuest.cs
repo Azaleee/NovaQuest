@@ -20,5 +20,6 @@ namespace NovaQuest
 
 			ToogleUI = KeybindLoader.RegisterKeybind(this, "Open Quests Book", "P");
 		}
+		
 	}
 }

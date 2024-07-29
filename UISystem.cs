@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using Microsoft.Xna.Framework;
+using NovaQuest.UI;
 using Terraria;
 using Terraria.ModLoader;
 using Terraria.UI;
@@ -38,7 +39,7 @@ namespace NovaQuest
             if (mouseTextIndex != -1)
             {
                 layers.Insert(mouseTextIndex, new LegacyGameInterfaceLayer(
-                    "YourMod: A Description",
+                    "NovaQuest: Quests UI",
                     delegate
                     {
                         if (_isVisible)

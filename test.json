@@ -1,26 +1,112 @@
 [
     {
         "Uid": 1,
+        "ItemIcon": {
+            "ItemType": 9
+        },
         "Name": "A beginning",
         "Desc": "Collect 40 wood",
+        "PosTop": 200,
+        "PosLeft": 440,
         "ItemsToGet": {
-            "9": 5
-        }
+            "9": 40
+        },
+        "Dependencies": []
     },
     {
         "Uid": 2,
+        "ItemIcon": {
+            "ItemType": 73
+        },
         "Name": "Capitalism",
-        "Desc": "Left the Merchant join your world by having at least 50 silver coin",
+        "Desc": "Left the Merchant join\nyour world by having\nat least 50 silver coin",
+        "PosTop": 200,
+        "PosLeft": 300,
         "ItemsToGet": {
             "9": 5
-        }
+        },
+        "Dependencies": [
+            1
+        ]
     },
     {
         "Uid": 3,
+        "ItemIcon": {
+            "ItemType": 966
+        },
         "Name": "Safe and warm",
         "Desc": "Craft a campfire",
+        "PosTop": 90,
+        "PosLeft": 350,
         "ItemsToGet": {
-            "215": 1
-        }
+            "9": 5
+        },
+        "Dependencies": [
+            1
+        ]
+    },
+    {
+        "Uid": 4,
+        "ItemIcon": {
+            "ItemType": 4978
+        },
+        "Name": "Up!",
+        "Desc": "Obtain an exclusive item from a sky island",
+        "PosTop": 90,
+        "PosLeft": 440,
+        "ItemsToGet": {
+            "9": 5
+        },
+        "Dependencies": [
+            1
+        ]
+    },
+    {
+        "Uid": 5,
+        "ItemIcon": {
+            "ItemType": 3509
+        },
+        "Name": "Underground Activities",
+        "Desc": "Reach the underground layer",
+        "PosTop": 310,
+        "PosLeft": 440,
+        "ItemsToGet": {
+            "9": 5
+        },
+        "Dependencies": [
+            1
+        ]
+    },
+    {
+        "Uid": 6,
+        "ItemIcon": {
+            "ItemType": 3318
+        },
+        "Name": "Defeat King Slime",
+        "Desc": "Good luck !!",
+        "PosTop": 200,
+        "PosLeft": 600,
+        "ItemsToGet": {
+            "9": 5
+        },
+        "Dependencies": [
+            1
+        ]
+    },
+    {
+        "Uid": 7,
+        "ItemIcon": {
+            "ItemType": 1309
+        },
+        "Name": "One lucky guy",
+        "Desc": "Obtain the Slime Staff",
+        "PosTop": 310,
+        "PosLeft": 600,
+        "ItemsToGet": {
+            "9": 5
+        },
+        "Dependencies": [
+            6
+        ]
     }
 ]

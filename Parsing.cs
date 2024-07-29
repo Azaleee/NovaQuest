@@ -9,6 +9,11 @@ namespace NovaQuest
 {
     public class Parsing
     {
+        /*
+        Sur Windows : C:\Users\<VotreNomUtilisateur>\Documents\My Games\Terraria\ModLoader\Mods\NovaQuest\
+        Sur macOS : ~/Library/Application Support/Terraria/ModLoader/Mods/NovaQuest/
+        Sur Linux : ~/.local/share/Terraria/ModLoader/Mods/NovaQuest/
+        */
         public static void LoadQuests(ref List<QuestDef> quests)
         {
             string homePath = Environment.GetEnvironmentVariable("HOME");
